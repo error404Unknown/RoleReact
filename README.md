@@ -6,27 +6,6 @@
 <br>
 <hr>
 
-<a href="https://travis-ci.com/Sam-DevZ/Discord-RoleReact">
-    <img src="https://img.shields.io/travis/com/Sam-DevZ/Discord-RoleReact.svg?style=for-the-badge" alt="Build">
-</a>
-
-<a href="https://github.com/Sam-DevZ/Discord-RoleReact">
-    <img src="https://img.shields.io/github/languages/top/Sam-DevZ/Discord-RoleReact.svg?colorB=f0db4f&style=for-the-badge" alt="Languages">
-</a>
-
-<br>
-
-<a href="https://github.com/Sam-DevZ/Discord-RoleReact">
-    <img src="https://img.shields.io/github/package-json/v/Sam-DevZ/Discord-RoleReact.svg?colorB=Orange&style=for-the-badge" alt="Version">
-</a>
-
-<a href="https://github.com/Sam-DevZ/Discord-RoleReact/issues">
-    <img src="https://img.shields.io/github/issues/Sam-DevZ/Discord-RoleReact.svg?style=for-the-badge&colorB=37f149" alt="Issues">
-</a>
-
-<a href="https://github.com/Sam-DevZ/Discord-RoleReact/pulls">
-    <img src="https://img.shields.io/github/issues-pr/Sam-DevZ/Discord-RoleReact.svg?style=for-the-badge&colorB=37f149" alt="Pull Request">
-</a>
 
 <br>
 <br>
@@ -34,11 +13,6 @@
 <hr>
 <br>
 
-## Demo
-
-![Demo of Bot using Regular Messages](https://i.imgur.com/DtldJ9x.gif)
-
-![Demo of Bot Using Embeds](https://i.imgur.com/DzQuimp.gif)
 
 ## Features
 
@@ -58,22 +32,10 @@ Run the `npm install` command to install discord.js
 
 Copy the `config.example.js` file and rename it to `config.js`. Open that file and modify the different properties to your liking. Most options are straightforward, however, there is commenting where approriate
 
-## Recommended Permissions
-
-These are the recommended permissions the bot should be assigned for full functionality. Errors will be thrown if the bot fails to have any of the permissions below.
-
-- Manage Roles
-- Read Text Channels & See Voice Channels
-- Send Messages
-- Manage Messages
-- Embed Links
-- Read Message History
-- Add Reactions
-
 ## Configuration
 Mandatory:
 
-- Fill in the `yourID` property with your User ID. You can get your User ID in any Discord channel by typing `\@YOUR NAME` or enabling "Developer Mode" in the Appearance section of your Discord settings and right clicking your username and click "Copy ID". For example, you would do `\@anthony` to get [acollierr17](https://github.com/acollierr17)'s Discord User ID
+- Fill in the `yourID` property with your User ID. You can get your User ID in any Discord channel by typing `\@YOUR NAME` or enabling "Developer Mode" in the Appearance section of your Discord settings and right clicking your username and click "Copy ID". For example, you would do `\@unknown` to get [error404Unknown](https://github.com/error404Unknown)'s Discord User ID
 
 - Change roles the to ones that are in your server
 
@@ -103,5 +65,3 @@ Optional:
 ## Support
 
 We hope you find this bot useful. If you need help or find any bugs, use the appropriate forums in this repository to contact us.
-
-*Credits to [The-SourceCode/Open-SourceBot](https://github.com/The-SourceCode/Open-SourceBot) for issue templates, a part of this README file, the Contributing Guidelines and Code of Conduct*
