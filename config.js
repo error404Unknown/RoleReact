@@ -1,7 +1,6 @@
 module.exports = {
 
 	/**
-	 * Instructions on how to get this: https://redd.it/40zgse
 	 */
 	yourID: "769650660509351936",
 
